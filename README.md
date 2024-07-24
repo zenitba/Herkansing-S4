@@ -1,2 +1,2 @@
 # Herkansing-S4
-Herkansing Endterm S$
+Herkansing Endterm S4
